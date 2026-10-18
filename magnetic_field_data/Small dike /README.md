@@ -1,0 +1,10 @@
+* Small dike data *
+This data has been collected from 11:09:51 AM to 12:09:52 PM. We divided the length of the dike into 10 cm intervals and numbered them from 1 to 20. 
+
+* Division of the data * 
+We have measured each position 3 times in similar conditions: initially we did the first transect for all of the positions (in the order 1-20) and then we did consecutively the second and third transect for all of the positions (in the order 20-1).
+
+For position 1, we had the 11-09-51, 12-02-25 and 12-02-52 data. For position 2, we had the 11-13-45, 12-01-33 and 12-01-58 data. For position 3, we had the 11-15-24, 12-00-34 and 12-00-58 data. For position 4, we had the 11-16-39, 11-59-36 and 12-00-02 data. For position 5, we had the 11-17-28, 11-58-45 and 11-59-12 data. For position 6, we had the 11-18-00, 11-57-53 and 11-58-15 data.  For position 7, we had the 11-18-40, 11-57-08 and 11-57-29 data.  For position 8, we had the 11-19-26, 11-56-14 and 11-56-44 data. For position 9, we had the 11-20-19, 11-54-34 and 11-54-57 data. For position 10, we had the 11-22-19, 11-53-49 and 11-54-12 data. For position 11, we had the 11-22-43, 11-52-59 and 11-53-24 data. For position 12, we had the 11-23-12, 11-52-09 and 11-52-31 data. For position 13, we had the 11-23-47, 11-51-22 and 11-51-43 data. For position 14, we had the 11-24-16, 11-50-28 and 11-50-55 data. For position 15, we had the 11-24-52, 11-40-59 and 11-41-43 data. For position 16, we had the 11-25-35, 11-39-32 and 11-40-13 data. For position 17, we had the 11-26-35, 11-38-39 and 11-39-05 data. For position 18, we had the 11-27-30, 11-35-40 and 11-38-03 data. For position 19, we had the 11-28-02, 11-34-10 and 11-34-44 data.For position 20, we had the 11-28-30, 11-32-47 and 11-33-21 data.
+
+* Additional Comments *
+For position 1, position 2 and position 12, the first measurement had some friction on the rock. 
