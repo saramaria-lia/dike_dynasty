@@ -1,11 +1,66 @@
-* Big dike data *
-This data has been collected from 11:24:52 AM to 13:26:39 PM. We divided the length of the dike into 10 cm intervals and numbered them from 1 to 20. 
+## Big Dike Data
 
-* Division of the data * 
-1. Recording each location 3 times in an identical manner. For the first location, we have the 12-36-58, 12-37-53 and 12-38-42 data. For the second location, we have the 12-39-14, 12-39-40 and 12-40-07 data. For the third location, we have the 12-40-30, 12-40-53 and 12-41-23 data. For the fourth location, we have the 12-41-52, 12-42-17, 12-42-37 data. For the fifth location, we have the 12-43-00, 12-43-24, 12-43-45 data. For the sixth location, we have the 12-44-16, 12-44-37 and 12-45-03 data. For the seventh location, we have the 12-45-37, 12-45-59, 12-46-23 data. For the eighth location, we have the 12-46-57, 12-47-19 and 12-47-42 data. For the ninth location, we have the 12-48-06, 12-48-31 and 12-48-53 data. For the tenth location, we have the 12-49-22, 12-49-46, 12-50-09 data. For the eleventh location, we have the 12-50-34, 12-50-55 and 12-51-15 data. For the twelfth location, we have the 12-51-39, 12-52-01 and 12-52-25 data. For the thirteenth location, we have the 12-52-50, 12-53-09, 12-53-31 data. For the fourteenth location, we have the 12-53-53, 12-54-14 and 12-54-25 data. For the fifteenth location, we have the 12-55-06, 12-55-27 and 12-55-50 data. For the sixteenth location, we have the 12-56-18, 12-56-39 and 12-56-58 data. For the seventeenth location, we have the 12-57-19, 12-57-39 and 12-58-08 data. For the eighteenth location, we have the 12-58-35, 12-58-55 and 12-59-17 data. For the nineteenth location, we have the 12-59-52, 13-00-11 and 13-00-34 data. For the twentieth location, we have the 13-00-58, 13-01-22 and 13-01-51 data. 
+The big dike data were collected between **11:24:52 AM and 1:26:39 PM**. The length of the dike was divided into **20 positions**, each separated by 10 cm.
 
-2. Recording location 10 at multiple heights. Specifically, 13-07-13 represents 1.1cm, 13-09-14 represents 2 cm, 13-10-40 represents 3cm, 13-11-17 represents 6cm, 13-11-45 represents 9 cm, 13-12-09 represents 12cm, 13-12-53 represents 15cm, 13-13-36 represents 30cm, 13-14-17 represents 50cm, 13-15-16 represents 70 cm, 13-16-16 represents 100cm (or 1m).
+### Division of the Data
 
-3. Recording location 10 multiple times (since the dike is strongest at this location) in the same conditions . Those measurements are represented by the 13-18-20, 13-18-44, 13-19-10, 13-19-31, 13-19-53, 13-20-41, 13-21-04, 13-21-24, 13-21-45, 13-22-06, 13-22-27. 
+#### 1. Measurements at 20 Positions
 
-4. Recording location 10 at different speeds. Those measurements are divided by the time it took to move the phone across the 90 cm width of the dike. Specifically, we have data for 3 seconds (13-26-03, 13-26-18, 13-26-39), 5 seconds (13-23-05, 13-23-29, 13-23-49) and 15 seconds (13-24-35, 13-25-03, 13-25-41). 
+Each position was measured three times under identical conditions.
+
+| Position | Measurement 1 | Measurement 2 | Measurement 3 |
+|---:|:---:|:---:|:---:|
+| 1 | `12-36-58` | `12-37-53` | `12-38-42` |
+| 2 | `12-39-14` | `12-39-40` | `12-40-07` |
+| 3 | `12-40-30` | `12-40-53` | `12-41-23` |
+| 4 | `12-41-52` | `12-42-17` | `12-42-37` |
+| 5 | `12-43-00` | `12-43-24` | `12-43-45` |
+| 6 | `12-44-16` | `12-44-37` | `12-45-03` |
+| 7 | `12-45-37` | `12-45-59` | `12-46-23` |
+| 8 | `12-46-57` | `12-47-19` | `12-47-42` |
+| 9 | `12-48-06` | `12-48-31` | `12-48-53` |
+| 10 | `12-49-22` | `12-49-46` | `12-50-09` |
+| 11 | `12-50-34` | `12-50-55` | `12-51-15` |
+| 12 | `12-51-39` | `12-52-01` | `12-52-25` |
+| 13 | `12-52-50` | `12-53-09` | `12-53-31` |
+| 14 | `12-53-53` | `12-54-14` | `12-54-25` |
+| 15 | `12-55-06` | `12-55-27` | `12-55-50` |
+| 16 | `12-56-18` | `12-56-39` | `12-56-58` |
+| 17 | `12-57-19` | `12-57-39` | `12-58-08` |
+| 18 | `12-58-35` | `12-58-55` | `12-59-17` |
+| 19 | `12-59-52` | `13-00-11` | `13-00-34` |
+| 20 | `13-00-58` | `13-01-22` | `13-01-51` |
+
+#### 2. Measurements at Different Heights
+
+Position 10 was measured at different heights above the reference surface.
+
+| Height | Timestamp |
+|---:|:---:|
+| 1.1 cm | `13-07-13` |
+| 2 cm | `13-09-14` |
+| 3 cm | `13-10-40` |
+| 6 cm | `13-11-17` |
+| 9 cm | `13-11-45` |
+| 12 cm | `13-12-09` |
+| 15 cm | `13-12-53` |
+| 30 cm | `13-13-36` |
+| 50 cm | `13-14-17` |
+| 70 cm | `13-15-16` |
+| 100 cm (1 m) | `13-16-16` |
+
+#### 3. Repeated Measurements at Position 10
+
+Position 10 was measured multiple times under the same conditions because the dike was strongest at this location.
+
+The timestamps are listed below in chronological order: `13-18-20`, `13-18-44`, `13-19-10`, `13-19-31`, `13-19-53`, `13-20-41`, `13-21-04`,`13-21-24`, `13-21-45`,`13-22-06`,`13-22-27`.
+
+#### 4. Measurements at Different Scanning Speeds
+
+Position 10 was measured at different scanning speeds. Each speed corresponds to the time taken to move the phone across the **90 cm width of the dike**.
+
+| Scanning Duration | Measurement 1 | Measurement 2 | Measurement 3 |
+|---:|:---:|:---:|:---:|
+| 3 seconds | `13-26-03` | `13-26-18` | `13-26-39` |
+| 5 seconds | `13-23-05` | `13-23-29` | `13-23-49` |
+| 15 seconds | `13-24-35` | `13-25-03` | `13-25-41` |

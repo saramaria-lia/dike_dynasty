@@ -1,10 +1,42 @@
-* Small dike data *
-This data has been collected from 11:09:51 AM to 12:09:52 PM. We divided the length of the dike into 10 cm intervals and numbered them from 1 to 20. 
+## Small Dike Data
 
-* Division of the data * 
-We have measured each position 3 times in similar conditions: initially we did the first transect for all of the positions (in the order 1-20) and then we did consecutively the second and third transect for all of the positions (in the order 20-1).
+The small dike data were collected between **11:09:51 AM and 12:09:52 PM**. The length of the dike was divided into **20 positions**, each separated by 10 cm.
 
-For position 1, we had the 11-09-51, 12-02-25 and 12-02-52 data. For position 2, we had the 11-13-45, 12-01-33 and 12-01-58 data. For position 3, we had the 11-15-24, 12-00-34 and 12-00-58 data. For position 4, we had the 11-16-39, 11-59-36 and 12-00-02 data. For position 5, we had the 11-17-28, 11-58-45 and 11-59-12 data. For position 6, we had the 11-18-00, 11-57-53 and 11-58-15 data.  For position 7, we had the 11-18-40, 11-57-08 and 11-57-29 data.  For position 8, we had the 11-19-26, 11-56-14 and 11-56-44 data. For position 9, we had the 11-20-19, 11-54-34 and 11-54-57 data. For position 10, we had the 11-22-19, 11-53-49 and 11-54-12 data. For position 11, we had the 11-22-43, 11-52-59 and 11-53-24 data. For position 12, we had the 11-23-12, 11-52-09 and 11-52-31 data. For position 13, we had the 11-23-47, 11-51-22 and 11-51-43 data. For position 14, we had the 11-24-16, 11-50-28 and 11-50-55 data. For position 15, we had the 11-24-52, 11-40-59 and 11-41-43 data. For position 16, we had the 11-25-35, 11-39-32 and 11-40-13 data. For position 17, we had the 11-26-35, 11-38-39 and 11-39-05 data. For position 18, we had the 11-27-30, 11-35-40 and 11-38-03 data. For position 19, we had the 11-28-02, 11-34-10 and 11-34-44 data.For position 20, we had the 11-28-30, 11-32-47 and 11-33-21 data.
+### Division of the Data
 
-* Additional Comments *
-For position 1, position 2 and position 12, the first measurement had some friction on the rock. 
+Each position was measured three times under similar conditions. The measurements were collected in three transects:
+
+1. **First transect:** Positions 1–20, in ascending order.
+2. **Second transect:** Positions 20–1, in descending order.
+3. **Third transect:** Positions 20–1, in descending order.
+
+### Measurements at 20 Positions
+
+The timestamps corresponding to each position are listed below.
+
+| Position | Measurement 1 | Measurement 2 | Measurement 3 |
+|---:|:---:|:---:|:---:|
+| 1 | `11-09-51` | `12-02-25` | `12-02-52` |
+| 2 | `11-13-45` | `12-01-33` | `12-01-58` |
+| 3 | `11-15-24` | `12-00-34` | `12-00-58` |
+| 4 | `11-16-39` | `11-59-36` | `12-00-02` |
+| 5 | `11-17-28` | `11-58-45` | `11-59-12` |
+| 6 | `11-18-00` | `11-57-53` | `11-58-15` |
+| 7 | `11-18-40` | `11-57-08` | `11-57-29` |
+| 8 | `11-19-26` | `11-56-14` | `11-56-44` |
+| 9 | `11-20-19` | `11-54-34` | `11-54-57` |
+| 10 | `11-22-19` | `11-53-49` | `11-54-12` |
+| 11 | `11-22-43` | `11-52-59` | `11-53-24` |
+| 12 | `11-23-12` | `11-52-09` | `11-52-31` |
+| 13 | `11-23-47` | `11-51-22` | `11-51-43` |
+| 14 | `11-24-16` | `11-50-28` | `11-50-55` |
+| 15 | `11-24-52` | `11-40-59` | `11-41-43` |
+| 16 | `11-25-35` | `11-39-32` | `11-40-13` |
+| 17 | `11-26-35` | `11-38-39` | `11-39-05` |
+| 18 | `11-27-30` | `11-35-40` | `11-38-03` |
+| 19 | `11-28-02` | `11-34-10` | `11-34-44` |
+| 20 | `11-28-30` | `11-32-47` | `11-33-21` |
+
+### Additional Comments
+
+The first measurements at **positions 1, 2, and 12** involved some friction against the rock. These measurements should be considered when interpreting the data and comparing repeated measurements.

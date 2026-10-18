@@ -1,10 +1,14 @@
-*Data acquisition*
-This is the experimental data that we collected on September 19 2026 in Middlesex Falls via the magnetometer setting in the "Physics Toolbox" app on our phones. 
+## Data Acquisition
 
-*Location*
-We collected the data in 2 locations, one that had a smaller dike and one that had a bigger dike. Thus, the data is divided into 2 depending on which dike we are referring to.
+The experimental data were collected on **September 19, 2026**, at **Middlesex Fells** using the magnetometer feature of the *Physics Toolbox* app on our phones.
 
+## Location
 
+Data were collected at two locations, each corresponding to a dike of a different size:
 
+- **Small dike:** Measurements taken at the smaller dike.
+- **Big dike:** Measurements taken at the larger dike.
+
+The dataset is divided into these two categories to facilitate separate analyses and comparisons.
 
 
